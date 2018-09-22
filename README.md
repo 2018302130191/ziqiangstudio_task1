@@ -8,3 +8,4 @@ def ec(str):
 if __name__=='__main__':
     qwq=ec("hello")
     print(qwq)
+
